@@ -1,2 +1,2 @@
-# d.js-begginers
-resources for begginer bot-makers, especially in discord.js
+# d.js-beginners
+resources for beginner bot-makers, especially in discord.js
